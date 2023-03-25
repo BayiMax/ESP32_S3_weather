@@ -1,0 +1,8 @@
+[submodule "LVGL.Simulator/lvgl"]
+	path = LVGL.Simulator/lvgl
+	url = https://github.com/lvgl/lvgl
+	branch = release/v7
+[submodule "LVGL.Simulator/lv_examples"]
+	path = LVGL.Simulator/lv_examples
+	url = https://github.com/lvgl/lv_examples
+	branch = release/v7
