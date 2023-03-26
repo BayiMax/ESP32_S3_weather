@@ -1,4 +1,4 @@
-/* * Data converted from E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from E:/Project_ALL/esp32s3_watches/watches_code/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: esps3_v1
+# Project: watches_code
 # Configurations: 
 # =============================================================================
 # =============================================================================
@@ -14,7 +14,7 @@
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__esps3_v1.2eelf_
+rule C_COMPILER__watches_code.2eelf_
   depfile = $DEP_FILE
   deps = gcc
   command = ccache D:\esp32IDF\IDFCORE\IDF\Espressif\tools\xtensa-esp32s3-elf\esp-2021r2-patch3-8.4.0\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -24,7 +24,7 @@ rule C_COMPILER__esps3_v1.2eelf_
 #############################################
 # Rule for linking CXX executable.
 
-rule CXX_EXECUTABLE_LINKER__esps3_v1.2eelf_
+rule CXX_EXECUTABLE_LINKER__watches_code.2eelf_
   command = cmd.exe /C "$PRE_LINK && D:\esp32IDF\IDFCORE\IDF\Espressif\tools\xtensa-esp32s3-elf\esp-2021r2-patch3-8.4.0\xtensa-esp32s3-elf\bin\xtensa-esp32s3-elf-g++.exe $FLAGS $LINK_FLAGS @$RSP_FILE -o $TARGET_FILE  && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   rspfile = $RSP_FILE
@@ -1783,7 +1783,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_lv_fs_if_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\esp32IDF\IDFCORE\IDF\Espressif\tools\cmake\3.20.3\bin\cmake.exe --regenerate-during-build -SE:\esp32_project\ESP32_S3-V2\esps3_V1 -BE:\esp32_project\ESP32_S3-V2\esps3_V1\build
+  command = D:\esp32IDF\IDFCORE\IDF\Espressif\tools\cmake\3.20.3\bin\cmake.exe --regenerate-during-build -SE:\Project_ALL\esp32s3_watches\watches_code -BE:\Project_ALL\esp32s3_watches\watches_code\build
   description = Re-running CMake...
   generator = 1
 

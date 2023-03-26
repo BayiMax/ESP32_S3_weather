@@ -23,22 +23,16 @@
  *
  *            佛祖保佑     永不宕机     永无BUG
  */
-
-/*
- * @Author: baymax 2978043737@qq.com
- * @Date: 2022-08-12 18:49:36
- * @LastEditors: baymax 2978043737@qq.com
- * @LastEditTime: 2022-10-06 09:01:15
- * @FilePath: \espc3_v1\main\main.c
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+/**
+ * @file main.c
+ * @author {白秉鑫}-{bbx20010518@outlook.com}
+ * @brief
+ * @version 0.1
+ * @date 2023-03-26
+ *
+ * @copyright Copyright (c) 2023
+ *
  */
-/* Hello World Example
-   This example code is in the Public Domain (or CC0 licensed, at your option.)
-   Unless required by applicable law or agreed to in writing, this
-   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-   CONDITIONS OF ANY KIND, either express or implied.
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

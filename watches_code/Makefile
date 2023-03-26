@@ -3,6 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := esps3_v1
+PROJECT_NAME := watches_code
 
 include $(IDF_PATH)/make/project.mk

@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/CMakeFiles/bootloader"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/CMakeFiles/bootloader.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "E:/esp32_project/ESP32_S3-V2/esps3_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "E:/Project_ALL/esp32s3_watches/watches_code/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

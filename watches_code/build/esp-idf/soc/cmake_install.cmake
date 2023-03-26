@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/esps3_v1")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/watches_code")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/soc/esp32s3/cmake_install.cmake")
+  include("E:/Project_ALL/esp32s3_watches/watches_code/build/esp-idf/soc/esp32s3/cmake_install.cmake")
 
 endif()
 

@@ -1,5 +1,0 @@
-E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/main/ulp_main/CMakeFiles/ulp_main_ld_script.dir
-E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/main/ulp_main/CMakeFiles/ulp_main.dir
-E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/main/ulp_main/CMakeFiles/build.dir
-E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/main/ulp_main/CMakeFiles/edit_cache.dir
-E:/esp32_project/ESP32_S3-V2/esps3_V1/build/esp-idf/main/ulp_main/CMakeFiles/rebuild_cache.dir
